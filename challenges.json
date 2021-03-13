@@ -1,7 +1,7 @@
 [
   {
     "type": "body",
-    "description": "Estique um de seus braços com a palma da mão virada para frente e puxe os dedos para cima",
+    "description": "Estique um de seus braços com a palma da mão virada para frente e puxe os dedos para cima por 10 segundos por mão.",
     "amount": 80
   },
   {
@@ -48,6 +48,11 @@
     "type": "eye",
     "description": "Usando os polegares, massage a área abaixo das sobrancelhas em movimentos circulares por 15 segundos.",
     "amount": 70
+  },
+  {
+    "type": "eye",
+    "description": "Sentado, feche os olhos e cubra-os com as palmas da mão durante 2 minutos, depois abra novamente.",
+    "amount": 90
   },
   {
     "type": "body",
